@@ -26,9 +26,9 @@ This project utilizes Word2Vec and GloVe embeddings to build sentiment classifie
 
 - Word2Vec: Trained locally for domain relevance.
 - GloVe: Pre-trained embeddings used for contextual richness.
-   4. Modeling: Train Random Forest and other ML models on embeddings.
-   5. Evaluation: Accuracy, F1-score, and confusion matrix used for comparison.
-   6. Analysis: Assess embedding performance in capturing sentiment context.
+    -Modeling: Train Random Forest and other ML models on embeddings.
+    -Evaluation: Accuracy, F1-score, and confusion matrix used for comparison.
+    -Analysis: Assess embedding performance in capturing sentiment context.
 
 ## Results
 Word embeddings outperformed traditional Bag-of-Words and TF–IDF models.
